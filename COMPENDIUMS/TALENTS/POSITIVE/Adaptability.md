@@ -27,4 +27,7 @@ You adjust to new morphs quickly.
 
 Apply a modifier ![[bo.webp|15]]![[bo.webp|15]] on a Resilience check for [Integration.](https://eclipsephase.github.io/en/15/02-resleeving.html#integration-test)
 
+![bo|15](bo.webp)
+
+
 And -3 to Strain for a [Resleeving Stress Tests](https://eclipsephase.github.io/en/15/02-resleeving.html#resleeving-stress-test).
